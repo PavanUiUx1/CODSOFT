@@ -19,3 +19,6 @@ Task 4 :
 
 Task 1 : 
 Demo Video Link : https://www.linkedin.com/posts/rallapudipavanuiux_codsoft-internship-learningbydoing-activity-7375627050499411968-O0SZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEySM_IB8ZF0Wg8OOvoV8KS6fJ15FJaONEE
+
+Task 2 : Restasturant Menu 
+Demo Video : https://www.linkedin.com/posts/rallapudipavanuiux_oasisinfobyte-internship-graphicdesign-activity-7376080814373130240-o0P5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEySM_IB8ZF0Wg8OOvoV8KS6fJ15FJaONEE
